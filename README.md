@@ -4,6 +4,8 @@
 | Module | Name  | Progress |
 | :---: | ------------- | :---: |
 |1| Introduction | ✅ |
+|2| Open-Source LLMs | ✅ |
+
 
 
 ## References
