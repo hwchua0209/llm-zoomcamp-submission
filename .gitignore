@@ -156,4 +156,9 @@ cython_debug/
 
 # Practice note
 practice
-practice/*
+
+
+ollama_files
+
+.devcontainer
+.vscode
