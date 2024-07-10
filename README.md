@@ -3,8 +3,10 @@
 ## Homeworks Progess
 | Module | Name  | Progress |
 | :---: | ------------- | :---: |
-|1| Introduction | ✅ |
-|2| Open-Source LLMs | ✅ |
+|1| [Introduction](https://github.com/hwchua0209/llm-zoomcamp-submission/blob/main/homework/hw1_%20Introduction.ipynb) | ✅ |
+|2| [Open-Source LLMs](https://github.com/hwchua0209/llm-zoomcamp-submission/blob/main/homework/hw2_Open_Source_LLMs.ipynb) | ✅ |
+|3| [Vector Search](https://github.com/hwchua0209/llm-zoomcamp-submission/blob/main/homework/hw3_Vector_Search.ipynb) | ✅ |
+
 
 
 
